@@ -4,6 +4,6 @@
 
 ## I'm a  Developer!!
 
-- 🌱 I’m currently learning backend
+
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I like to program
