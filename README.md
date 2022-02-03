@@ -30,5 +30,6 @@
 <br>
 
 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: keep learning :D
 - ⚡ I like to program
+- 🔨 working at itoeste
