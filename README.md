@@ -29,7 +29,5 @@
 </p>
 <br>
 
-
-- 🥅 2022 Goals: keep learning :D
 - ⚡ I like to program
 - 🔨 working at itoeste
