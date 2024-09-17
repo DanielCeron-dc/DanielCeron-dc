@@ -28,6 +28,3 @@
   </a> 
 </p>
 <br>
-
-- ⚡ I like to program
-- 🔨 working at itoeste
